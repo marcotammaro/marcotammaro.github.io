@@ -355,3 +355,11 @@ a:focus, a:hover, a:active {
   margin-right: auto;
   width: 50%;
 }
+
+.skills {
+  background-color: white;
+}
+
+.contact-me {
+  background-color: #36A7DA;
+}
